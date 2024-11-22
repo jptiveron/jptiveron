@@ -1,7 +1,8 @@
 ## Olá! Pode me chamar de JP!
 
-- 🔭 Atualmente sou servidor público do Poder Judiciário Federal, trabalhando com Inovação
-- 🌱 Estudando para virar desenvolvedor full-stack JavaScript
+- 🔭 Servidor público do Poder Judiciário Federal (Técnico Judiciário - Área Administrativa), atualmente trabalhando com Inovação.
+- 🎲 Trabalhando quase que diariamente com Excel e Power BI.
+- 🌱 Estudando JavaScript para construir soluções que ajudem nosso dia a dia.
 - 😄 Pronomes: ele/dele
 - ⚡ Fato curioso: apaixonado por Forró!
 
